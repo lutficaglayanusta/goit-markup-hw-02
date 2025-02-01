@@ -112,7 +112,7 @@ header .address .address-info:focus{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.portfolio{
+.our-portfolio{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -127,7 +127,7 @@ header .address .address-info:focus{
     letter-spacing:0.02em;
     color: #2e2f42;
 }
-.portfolio .app .app-descp{
+.portfolio .app-descp{
     font-size:16px;
     letter-spacing:0.02em;
     color:#434455;
