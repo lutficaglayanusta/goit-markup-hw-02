@@ -9,7 +9,7 @@ a{
     text-decoration: none;
 }
 .logo{
-    font-family: "Raleway";
+    font-family:"Raleway";
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -34,28 +34,19 @@ nav .studio:focus{
 header .address{
     font-style: normal;
 }
-header .address .mail{
+header .address .address-info{
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #434455;
 }
-header .address .mail:hover{
+header .address .address-info:hover{
     color: #404bbf;
 }
-header .address .mail:focus{
+header .address .address-info:focus{
     color: #404bbf;
 }
-header .address .phone{
-    font-size: 16px;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-header .address .phone:hover{
-    color: #404bbf;
-}
-header .address .phone:focus{
-    color: #404bbf;
-}
+
+
 .effective{
     background-color: rgb(46, 47, 66);
 }
@@ -130,16 +121,16 @@ header .address .phone:focus{
     color: #2e2f42;
 }
 .portfolio .app{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
+    font-weight:500;
+    font-size:20px;
+    line-height:1.2;
+    letter-spacing:0.02em;
     color: #2e2f42;
 }
 .portfolio .app .app-descp{
-    font-size: 16px;
-    letter-spacing: 0.02em;
-    color: #434455;
+    font-size:16px;
+    letter-spacing:0.02em;
+    color:#434455;
 }
 .footer{
     background-color: #2e2f42;
