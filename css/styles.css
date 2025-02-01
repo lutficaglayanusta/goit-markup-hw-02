@@ -1,0 +1,16 @@
+body{
+    font-family: "Roboto",sans-serif;
+    color: black;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: white;
+}
+button:hover{
+    cursor: pointer;
+}
+.effective{
+    background-color: rgb(46, 47, 66);
+}
+.team{
+    background-color: rgb(244, 244, 253);
+}
