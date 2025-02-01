@@ -1,16 +1,150 @@
 body{
     font-family: "Roboto",sans-serif;
-    color: black;
+    color: #434455;
     font-size: 18px;
     line-height: 1.5;
-    background-color: white;
+    background-color: #FFFFFF;
 }
-button:hover{
-    cursor: pointer;
+a{
+    text-decoration: none;
+}
+.logo{
+    font-family: "Raleway";
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.text{
+    color: #2e2f42;
+}
+nav .studio{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+nav .studio:hover{
+    color: #404bbf ;
+}
+nav .studio:focus{
+    color:#404bbf;
+}
+header .address{
+    font-style: normal;
+}
+header .address .mail{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+header .address .mail:hover{
+    color: #404bbf;
+}
+header .address .mail:focus{
+    color: #404bbf;
+}
+header .address .phone{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+header .address .phone:hover{
+    color: #404bbf;
+}
+header .address .phone:focus{
+    color: #404bbf;
 }
 .effective{
     background-color: rgb(46, 47, 66);
 }
+.effective .business{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.effective .service{
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5 ;
+    letter-spacing: 0.04em ;
+    color: #ffffff;
+}
+
+.effective .service:hover{
+    background-color: #404BBF;
+    cursor: pointer;
+}
+.effective .service:focus{
+    background-color: #404BBF;
+}
+.heading3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.paragh{
+    font-size: 16px;
+    letter-spacing:0.02em;
+    color: #434455;
+}
+
 .team{
     background-color: rgb(244, 244, 253);
+}
+.team .our-team{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.team .our-team .member{
+    background-color: inherit;
+}
+.team .our-team .member .member-person{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team .our-team .member .member-description{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.portfolio{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.portfolio .app{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.portfolio .app .app-descp{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.footer{
+    background-color: #2e2f42;
+}
+.footer .info{
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
