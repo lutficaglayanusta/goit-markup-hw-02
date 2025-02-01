@@ -97,17 +97,17 @@ header .address .address-info:focus{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.team .our-team .member{
-    background-color: inherit;
+.team .member{
+    background-color: #FFFFFF;
 }
-.team .our-team .member .member-person{
+.team .member .member-person{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.team .our-team .member .member-description{
+.team .member .member-description{
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #434455;
