@@ -136,8 +136,8 @@ header .address .address-info:focus{
 .footer{
     background-color: #2e2f42;
 }
-.footer .text{
-    background-color: #2e2f42;
+.footer .footer-text{
+    color: #ffffff;
 }
 
 .footer .info{
