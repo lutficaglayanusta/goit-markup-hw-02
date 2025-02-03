@@ -9,7 +9,7 @@ a{
     text-decoration: none;
 }
 .logo{
-    font-family: "Raleway";
+    font-family: "Raleway",sans-serif;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -72,8 +72,9 @@ header .address .address-info:focus{
 }
 .effective .service:focus{
     background-color: #404BBF;
+    cursor: pointer;
 }
-.heading3{
+.heading{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -135,9 +136,7 @@ header .address .address-info:focus{
 .footer{
     background-color: #2e2f42;
 }
-.footer .text{
-    color: #ffffff;
-}
+
 .footer .info{
     color: #F4F4FD;
     letter-spacing: 0.02em;
